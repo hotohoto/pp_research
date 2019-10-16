@@ -1,14 +1,8 @@
 # Memo
 
-## Question
-
-- Can we say frequentists' supervised models assume conditional independence on the target variable?
-  - meaning they only assume comparatively plain structure between input variables?
+## TODO
 - How to scale?
   - ADVI??
-
-## TODO
-
 - add questions section
 - remove regularization term from mle code ??
 - move bayesian network explanation as appendix
